@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋, Solomon
+Design and development 
+![Design and development ](https://pbs.twimg.com/profile_images/1685756017223561216/cc47Dv-q.jpg)
 
 I'm Solomon from Nigeria, I'm a project developer. i love learning and love cryptocurency❤️ you can check out my twitter https://twitter.com/solomon_1151 or https://youtube.com/@Cryptsol.
 
@@ -8,19 +10,9 @@ I'm Solomon from Nigeria, I'm a project developer. i love learning and love cryp
 #### Design and development 
 ![Design and development ](https://twitter.com/solomon_1151)
 
-### Hi there 👋, Solomon
-#### Design and development 
-![Design and development ](https://pbs.twimg.com/profile_images/1685756017223561216/cc47Dv-q.jpg)
-
 I'm Solomon from Nigeria, I'm a project developer. i love learning and cryptocurency❤️ you can check out my
 
 Skills:  REACT / JS / HTML / CSS
-
-### Hi there 👋, Solomon
-#### Design and development 
-![Design and development ](https://pbs.twimg.com/profile_images/1685756017223561216/cc47Dv-q.jpg)
-
-I'm Solomon from Nigeria, I'm a project developer. i love learning and cryptocurency❤️ you can check out my
 
 Skills:  REACT / JS / HTML / CSS
 
